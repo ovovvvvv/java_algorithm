@@ -1,3 +1,4 @@
+//Split 방법으로 구현한 코드
 import java.util.*;
 class jcode031 {
 
